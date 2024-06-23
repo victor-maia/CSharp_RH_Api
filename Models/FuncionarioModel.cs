@@ -1,6 +1,6 @@
 ﻿namespace WebApi_RH.Models;
 using System.ComponentModel.DataAnnotations;
-using WebApi_RH.Enums
+using WebApi_RH.Enums;
 public class FuncionarioModel
 {
     [Key]

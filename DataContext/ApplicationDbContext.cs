@@ -1,14 +1,15 @@
-﻿namespace WebApi_RH.DataContext;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using WebApi_RH.Models;
 
-public class ApplicationDbContext : DbContext
+namespace WebApi_RH.DataContext
 {
-
-    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+    public class ApplicationDbContext : DbContext
     {
-        
-    }
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
+        {
+        }
 
-    public DbSet<FuncionarioModel> Funcionarios { get; set; }
+        public DbSet<FuncionarioModel> Funcionarios { get; set; }
+    }
 }
