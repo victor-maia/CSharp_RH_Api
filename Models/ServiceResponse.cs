@@ -2,7 +2,7 @@
 
 public class ServiceResponse<T>
 {
-    public T? dados { get; set; }
+    public T? Dados { get; set; }
 
     public string Mensagem { get; set; } = string.Empty;
 
