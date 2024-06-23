@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T17:36:09.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:32:15.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "Models\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:24:47.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TurnoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Enums\\TurnoEnum.cs",
+              "RelativeDocumentMoniker": "Enums\\TurnoEnum.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Enums\\TurnoEnum.cs",
+              "RelativeToolTip": "Enums\\TurnoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:23:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartamentoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Enums\\DepartamentoEnum.cs",
+              "RelativeDocumentMoniker": "Enums\\DepartamentoEnum.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Enums\\DepartamentoEnum.cs",
+              "RelativeToolTip": "Enums\\DepartamentoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:20:54.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "Models\\FuncionarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:13:28.534Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
