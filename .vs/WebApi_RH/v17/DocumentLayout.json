@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\service\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:service\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\webapi_rh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:webapi_rh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\service\\funcionarioservice\\ifuncionariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:service\\funcionarioservice\\ifuncionariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|c:\\users\\victor\\source\\repos\\webapi_rh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6798AA4-F6B5-4415-BA93-B467C21695FF}|WebApi_RH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,6 +33,10 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IFuncionarioInterface.cs",
@@ -39,16 +47,23 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T22:40:36.663Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "WebApi_RH.http",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\WebApi_RH.http",
+              "RelativeDocumentMoniker": "WebApi_RH.http",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\WebApi_RH.http",
+              "RelativeToolTip": "WebApi_RH.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-24T00:08:21.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -56,31 +71,30 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T23:03:03.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T23:03:03.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FuncionarioService.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Service\\FuncionarioService\\FuncionarioService.cs",
               "RelativeDocumentMoniker": "Service\\FuncionarioService\\FuncionarioService.cs",
               "ToolTip": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Service\\FuncionarioService\\FuncionarioService.cs",
               "RelativeToolTip": "Service\\FuncionarioService\\FuncionarioService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwCYAAAANAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswEkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T22:40:15.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FuncionarioController.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Controllers\\FuncionarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\FuncionarioController.cs",
               "ToolTip": "C:\\Users\\Victor\\source\\repos\\WebApi_RH\\Controllers\\FuncionarioController.cs",
               "RelativeToolTip": "Controllers\\FuncionarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAzwD4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T22:41:00.024Z",
               "EditorCaption": ""
